@@ -1,0 +1,218 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    -webkit-text-stroke: 0.4px aliceblue;
+    /* font: black; */
+}
+
+
+
+
+/* ------------- VIDEO CONTAINER ------------- */
+
+
+#videoContainer{
+    z-index: -1;
+    
+}
+
+#videoPlayer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-height: 100%;
+    object-fit: fill;
+}
+
+#overlayPauseButton {
+    position: absolute;
+    width: 100%; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    font-size: 80px;
+    background: rgb(0, 0, 0, 0);
+    color: black;
+    cursor: default;
+    outline: 0;
+    transition:0.5s;
+    border-color: transparent; 
+}
+
+/* ------------- MENU CONTAINER ------------- */
+
+#menuContainer {
+    position: absolute;
+    display: flex;
+    bottom: 10%;
+    z-index: 1;
+    transition: 1s;
+    background: rgba(0, 16, 20, 0.9);
+    box-shadow: -1px -1px 5px aliceblue, 1px 1px 10px cornflowerblue, 2px 2px 5px darkorchid;
+    border-radius: 10px / 7px;
+}
+
+
+
+
+/* ------------- MEDIA CONTAINER ------------- */
+
+.mediaContainer {
+    padding: 5px;
+    margin: 4px;
+}
+
+.mediaContainer label {
+    color: whitesmoke;
+    display: flex;
+    /* padding-right: 50px; */
+}
+
+.playlist {
+    font: 10px;
+}
+
+/* #videoSelect {
+    background-color: rgb(0, 16, 20);
+    color: rgb(225, 240, 255);
+    font-weight: bolder;
+    border-color: white;
+    font-size: 14px;
+}
+
+
+#radioSelect {
+    background-color: rgb(238, 233, 227);
+    border: 5px;
+    border-color: black;
+    font-weight: bold;
+} */
+
+.select {
+    background-color: white;
+    border: 5px;
+    border-color: black;
+    font-weight: bold;
+    -webkit-text-stroke: 0.1px grey;
+}
+
+#menuVideoContainer {
+    margin-right: 2px;
+    border-right: 1px solid grey;
+    padding: 5px;
+    /* padding-left: 20px; */
+    padding-right: 15px;
+}
+
+#menuRadioContainer {
+    margin-left: 2px;
+    border-left: 1px solid grey;
+    padding: 5px;
+    padding-left: 15px;
+    /* padding-right: 20px; */
+}
+
+
+/* ------------- VOLUME  ------------- */
+
+.volume {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.volumeText {
+    text-align: center;
+    color: tan;
+    font-size: 14px;
+}
+
+/* ------------- SLIDER CONTAINER ------------- */
+
+.slider {
+    -webkit-appearance: none;
+    height: 10px;
+    opacity: 0.8;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+    background: white;
+
+    border: 5px;
+    border-color: black;
+
+}
+
+.slider:hover {
+    opacity: 1;
+    box-shadow: 0px 0px 1px aliceblue, 0px 0px 1px cornflowerblue, 0px 0px 1px darkorchid;
+
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 12.5px;
+    height: 10px;
+    background: rgb(118, 72, 245);
+    cursor: pointer;
+   
+}
+
+
+.slider::-moz-range-thumb {
+    width: 12.5px;
+    height: 20px;
+    background: darkred;
+    cursor: pointer;
+}
+
+
+.url {
+    color:tan; 
+    display: block;
+    font-size: 12px;
+    right: 0;
+}
+
+
+
+/* ------------- OFF BUTTON CONTAINER ------------- */
+
+.offButton {
+    /* width: 50%;
+    background-color: black;
+    color: tan;
+    padding: 1px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: auto; */
+    margin-left: 10px;
+    margin-right: 10px; 
+    background-color: rgb(0, 128, 0);
+    color: white;
+    border-radius: 2px / 2px;
+    font-size: 12px;
+    opacity: 0.8;
+} 
+
+.offButton:hover{
+    opacity:1;
+}
+
+
+.ytp-pause-overlay{
+display:none;
+}
+
+.ytp-watermark {
+    display:none;
+}

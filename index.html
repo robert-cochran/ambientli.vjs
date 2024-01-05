@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="./public/css/style.css">
+		<link rel="shortcut icon" type="image/jpg" href="./public/images/icons/icons8-tv-64.png"/>
+		<link rel="shortcut icon" type="image/jpg" href="./images/icons/icons8-tv-64.png"/>
+
+		<meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8">
+	</head>
+	<body> 
+
+		<div id="videoContainer">
+			<div id="videoPlayer"></div>
+			<div id="radioPlayer"></div>
+			<button id="overlayPauseButton"> </button>
+		</div>
+
+		<div id="menuContainer">
+			<div id="menuVideoContainer" class="mediaContainer">
+				<div class="playlist">
+					<label for="videoSelect">\\ V I D E O \\ :: &nbsp
+						<select name="videoSelect" id="videoSelect" class="select"></select>
+					</label>
+				</div>
+				<div class="volume">
+					<label for="videoVolumeSlider" class="volumeText">Volume: &nbsp
+						<input type="range" min="0" max="100" value="0" class="slider" id="videoVolumeSlider">
+						<button id="turnOffVideoButton" class="offButton">ON</button>
+
+					</label>
+					<a href="javascript:" id="videoURL" class="url">Video URL</a>
+				</div>
+			</div>
+			<div id="menuRadioContainer" class="mediaContainer">
+				<div class="playlist">
+					<label for="radioSelect">// R A D I O // :: &nbsp
+						<select name="radioSelect" id="radioSelect" class="select"></select>
+					</label>
+				</div>
+				<div class="volume">
+					<label class="volumeText">Volume: &nbsp
+						<input type="range" min="0" max="100" value="0" class="slider" id="radioVolumeSlider">
+						<button id="turnOffRadioButton" class="offButton">ON</button>
+
+					</label>
+					<a href="javascript:" id="radioURL" class="url">Radio URL</a>
+				</div>
+			</div>
+		</div>	
+	
+
+		<!-- <script src="./js/videos.js"></script>
+		<script src="./js/radios.js"></script>
+		<script src="./js/script.js"></script> -->
+
+		<script src="./public/js/videos.js"></script>
+		<script src="./public/js/radios.js"></script>
+		<script src="./public/js/script.js"></script>
+
+	</body>
+</html>
