@@ -1,0 +1,39 @@
+# TODO
+
+- add in ambient noises like thunder, rain, etc...
+    - https://developers.google.com/assistant/tools/sound-library/ambiences
+    - https://developers.google.com/assistant/tools/sound-library/weather
+    - https://asoftmurmur.com/about/
+    - https://github.com/iambibhas/background-noise
+- overlay makes the app very slow, need to try out on different computers
+- fix doubleclick of fullscreen to not trigger play everytime
+- [BUG] selecting new video while paused or off and changing volume plays radio
+- loop toggle (use ended event)
+- bluetooth cast webcontent+audio to tv
+- cookie to store playlist saves?
+- video queue
+- mark broken dropdown video/radio links 
+- user input for video/song urls
+- filters (CRT, vaporwave)
+- adblock ads
+- enable picture in picture
+    - https://googlechrome.github.io/samples/picture-in-picture/
+    - https://w3c.github.io/picture-in-picture/
+    - https://caniuse.com/picture-in-picture
+    - use vue (or whatever) to have view in view mode
+- pomodoro stop function
+- public api's to help build things 
+    - https://news.ycombinator.com/item?id=28232369
+- API: 
+    - https://developers.google.com/youtube/iframe_api_reference#onApiChange
+    - https://github.com/nutbread/yia/blob/gh-pages/src/youtube_iframe_api.js
+- Alts: 
+    - https://bestofjs.org/projects/plyr, 
+    - https://bestofjs.org/projects/bigpicturejs, 
+    - https://bestofjs.org/projects/lite-youtube-embed
+- hosting sqlite on github pages https://news.ycombinator.com/item?id=28015980 
+    - https://stackoverflow.com/questions/46407770/how-to-convert-a-json-file-to-an-sqlite-database
+    - json1 https://news.ycombinator.com/item?id=19277809
+    - sql-utils https://simonwillison.net/2021/Jun/19/sqlite-utils-memory/ 
+    - sql-utils https://til.simonwillison.net/tils/search?q=jq+sqlite+insert
+
