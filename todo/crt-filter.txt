@@ -1,0 +1,35 @@
+
+- add a crt-tv option to give it a really retro feel
+    - also vaporwave filter
+- startup effects of tv turning on
+    - crt lines, colour fade, edge darken, AV icon, etc...
+- examples:
+    - checkout out cool-retro-term for a great exmaple of this 
+        https://github.com/Swordfish90/cool-retro-term
+    - other cool examples I found 
+        (keywords used: crt tv simulator, crt emulator, CRT shaders):
+    - CRT shaders list 
+        - https://emulation.gametechwiki.com/index.php/CRT_Shaders	
+    - crt-royale 
+        - https://emulation.gametechwiki.com/index.php/CRT-Royale
+    - crt-royale github 
+        - https://github.com/libretro/common-shaders/tree/master/crt/shaders/crt-royale
+    - dosbox-crt 
+        - https://mattiasgustavsson.itch.io/dosbox-crt
+    - above article i got this from - https://www.pcgamer.com/au/this-dos-emulator-is-the-next-best-thing-to-having-a-chunky-crt-monitor-on-your-desk/
+    - more from above - https://mattiasgustavsson.itch.io/crtview
+    - simulating crt with ffmpeg blog series - https://int10h.org/blog/2021/01/simulating-crt-monitors-ffmpeg-pt-1-color/
+    - above github repo - https://github.com/viler-int10h/FFmpeg-CRT-transform
+    - godot crt shader - https://github.com/hiulit/Godot-3-2D-CRT-Shader
+    - simple godot crt shader - https://github.com/henriquelalves/SimpleGodotCRTShader
+    - shaders and filters - https://emulation.gametechwiki.com/index.php/Shaders_and_Filters
+    - common-shaders github - https://github.com/libretro/common-shaders
+    - shade library i think - https://reshade.me/
+    - explaining visual artifacts/elements of crt - http://bogost.com/games/a_television_simulator/	
+    - another explainer - https://www.gamedeveloper.com/programming/crt-simulation-in-super-win-the-games
+    - libretro - https://www.libretro.com/
+    - Retro Arch - https://www.retroarch.com/
+    - retro arch wiki - https://en.wikipedia.org/wiki/RetroArch
+    - libretro crt-easymode - https://github.com/libretro/common-shaders/blob/master/crt/shaders/crt-easymode.cg
+    - libretro meta-crt - https://www.shadertoy.com/view/4dlyWX
+    - 

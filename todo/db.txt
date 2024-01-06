@@ -1,0 +1,22 @@
+
+- hosting sqlite on github pages https://news.ycombinator.com/item?id=28015980 
+    - https://stackoverflow.com/questions/46407770/how-to-convert-a-json-file-to-an-sqlite-database
+    - json1 https://news.ycombinator.com/item?id=19277809
+    - sql-utils https://simonwillison.net/2021/Jun/19/sqlite-utils-memory/ 
+    - sql-utils https://til.simonwillison.net/tils/search?q=jq+sqlite+insert
+
+## Database implementation
+- investigate using sql.js, graphql, or how i could set up a sql database to read from
+- investigate sql database
+    - for storing playlists of videos and radios
+    - for storing user playlists
+    - https://news.ycombinator.com/item?id=28015980
+- general overviews https://expressjs.com/en/guide/database-integration.html#mongodb
+- awesome-json: https://github.com/burningtree/awesome-json
+- jq and sqlite
+    - json to sql https://stackoverflow.com/questions/46407770/how-to-convert-a-json-file-to-an-sqlite-database
+    - json1 https://news.ycombinator.com/item?id=19277809
+    - sql-utils https://simonwillison.net/2021/Jun/19/sqlite-utils-memory/ 
+    - sql-utils https://til.simonwillison.net/tils/search?q=jq+sqlite+insert
+- json-query
+- how do driveandlisten and lifeat store their data?

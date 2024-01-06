@@ -1,0 +1,6 @@
+
+- adblock ads (browsers without adblock will play ads during some videos)
+    - build own adblocker?
+- https://github.com/th-ch/youtube-music 
+    - example uses ad blocker and electron
+    - another ad blocker https://github.com/code4charity/YouTube-Extension 

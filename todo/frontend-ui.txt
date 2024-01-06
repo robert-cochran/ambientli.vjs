@@ -1,0 +1,17 @@
+
+## FrontEnd UI
+- menu 
+    - visual cue that menu hover is disabled 
+        - (maybe brighter to show its staying open?)    
+    - master volume ?
+    - advanced expanded menu
+        - list of extra videos and radios
+- video sizing
+    - make the visible video match the screen size (no black bars)
+    - remove all the text and youtube related information
+- title card 
+    - replace screen when buffering at the start, then transition out once its 
+        not buffering
+    - have pause bring in title card to hide youtube info
+- include playlist or radio in the select name
+    - e.g. red radio text with a little red led light 

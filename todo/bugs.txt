@@ -1,0 +1,4 @@
+- overlay makes the app very slow, need to try out on different computers
+- fix doubleclick of fullscreen to not trigger play everytime
+- [BUG] selecting new video while paused or off and changing volume plays radio
+- safari wont full screen (https://www.npmjs.com/package/screenfull)

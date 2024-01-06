@@ -1,0 +1,19 @@
+- enable picture in picture
+    - https://googlechrome.github.io/samples/picture-in-picture/
+    - https://w3c.github.io/picture-in-picture/
+    - https://caniuse.com/picture-in-picture
+    - use vue (or whatever) to have view in view mode
+
+- react-player 
+    - https://github.com/cookpete/react-player 
+    - https://caniuse.com/picture-in-picture
+- https://developers.google.com/web/updates/2018/10/watch-video-using-picture-in-picture
+- https://googlechrome.github.io/samples/picture-in-picture/
+- https://w3c.github.io/picture-in-picture/
+- https://caniuse.com/picture-in-picture
+- use vue (or whatever) to have view in view mode
+- gifs as a low quality/memory video? 
+- example 
+    - https://www.reddit.com/r/gifs/comments/p6nn4v/i_drew_this_pixel_art_scene_using_8_colors_and/
+- i remember lofi.cafe had a problem with gifs being extra memory hungry though
+- Provide low quality loops that arent heavy on the cpu

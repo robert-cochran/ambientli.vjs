@@ -1,0 +1,10 @@
+
+- analytics
+	- websites observability (technical term)
+	- what can i measure?
+		- how long someone visits the site for (avg)
+		- what videos and music are the most popular
+		- how long does a typical user spend
+		- whats the retention rate
+		- ..?
+- plausible.io

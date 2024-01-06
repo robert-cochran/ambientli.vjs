@@ -1,0 +1,32 @@
+
+- reduce size and improve performance by testing out other frameworks including:
+	- preact, next.js, nuxt.js, any other lightweight react libs
+	- q: what does having a light (3kb) react lib actuall do for performance? 
+		- is it just less to download? what other performance boosts does it 
+            provide?
+		- and at what cost?
+
+
+- figure out how the react/emoji-search project can deployt to local network
+- react from teh ground up 
+    - https://mattgreer.dev/articles/react-internals-part-one-basic-rendering/
+- look these up later
+	- gulp, 
+    - browserify, 
+    - jsx with es6, 
+    - postcss, 
+    - webpack with babel (comes with react)
+	- build optimisers: uglify, HotModuleReplacement, Chunks
+- investigate vidoe players in react, angular, vue
+    - react: https://video-react.js.org/ , https://www.npmjs.com/package/react-player , https://github.com/cookpete/react-player
+    - angular: https://openbase.com/categories/js/best-angular-video-player-libraries , https://www.toptal.com/angular-js/angular-video-player-videogular
+    - vue: 
+- Native app on app store
+    - implementation
+        - native app https://news.ycombinator.com/item?id=27900862 (fluid, nativefier, cocoa, etc..)
+        - tauri, electron
+
+- solid vs react (speed vs popularity)
+- react ui components
+    - https://www.codeinwp.com/blog/react-ui-component-libraries-frameworks/ --- https://blog.logrocket.com/top-9-ui-libraries-kits-react/
+- react (reactplayer)

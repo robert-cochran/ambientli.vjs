@@ -1,0 +1,4 @@
+- can save users added videos and radio/playlists 
+    - can also help make a music playlists as well without needing a youtube account?
+    - list of added videos and music can be saved as text and reimported back in as a backup
+    - https://github.com/aaronleopold/music-menubar

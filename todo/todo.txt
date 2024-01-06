@@ -1,0 +1,19 @@
+- loop toggle (use ended event)
+- bluetooth cast webcontent+audio to tv
+- cookie to store playlist saves?
+- video queue
+- mark broken dropdown video/radio links 
+    - note: may cause significant performance cost querying every link
+- user input for video/song urls
+- pomodoro stop function
+- public api's to help build things 
+    - https://news.ycombinator.com/item?id=28232369
+- API: 
+    - https://developers.google.com/youtube/iframe_api_reference#onApiChange
+    - https://github.com/nutbread/yia/blob/gh-pages/src/youtube_iframe_api.js
+- OSS Ideas:
+    - https://opencollective.com/discover?show=open+source&sort=
+- Alts: 
+    - https://bestofjs.org/projects/plyr, 
+    - https://bestofjs.org/projects/bigpicturejs, 
+    - https://bestofjs.org/projects/lite-youtube-embed

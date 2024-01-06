@@ -1,0 +1,105 @@
+- need to make playlists work, and make them shuffle
+    - get playlist id's without api key 
+        - https://www.npmjs.com/package/yt-playlist-scraper
+- h.html sources raw html fetch, find way to extract id's from html elements
+    - useful for sourcing playlist id's without needing api key
+- add timeend as another key to playlists to stop video before it shows youtubes
+  title cards
+    - every vid will be different value but roughly 60s
+
+- youtube search 'screensaver' for a bunch of good low qual videos
+- snowboarding, skiing, sports videos
+- add building channel
+    - asmr watch building, 
+        - https://www.youtube.com/watch?v=UwpP_s8LV_Y
+        - https://www.youtube.com/watch?v=SGPjFFMD3c0
+        - https://www.youtube.com/watch?v=OrgRfy4I2Y0
+        - https://www.youtube.com/watch?v=3FQ-POUbPvA
+        - https://www.youtube.com/watch?v=AppMkUnatf0
+        - https://www.youtube.com/watch?v=Hr-6LRpTBno
+    - car building, 
+        - https://www.youtube.com/watch?v=WxiivBn740k
+    - wood working/luthier, 
+        - https://www.youtube.com/watch?v=iphJwCNbNSI (violin)
+        - https://www.youtube.com/watch?v=LX-kcOcNez8
+        - https://www.youtube.com/watch?v=YO5KMZfyKBc (violin2)
+    - printmaking
+        - https://www.youtube.com/watch?v=QA7x9PVHtiQ (lots of talking though)
+    - models
+        - https://www.youtube.com/watch?v=wdQgaP-XRPw
+        - https://www.youtube.com/watch?v=S3dHltImXkw
+    - house
+        - primitive survival tool channel
+        - primitive technology
+    - etc... 
+    - other people doing working in the background is nice
+-
+- triphop
+- Fantasy Ambient Playlists - https://www.youtube.com/watch?v=SCmRfTb0_I4&list=RDLVSpotBugZv0I&index=15&ab_channel=Dan
+- the xx intro, triphop, techno?, classical, 
+- dark academia
+    - dark academia 4: https://www.youtube.com/watch?v=lzxriZIL6P0
+    - dark academia 5: https://www.youtube.com/watch?v=c1BJ4U9cJFc
+    - 7: https://www.youtube.com/watch?v=DuUrXaPGWC8
+    - 8: https://www.youtube.com/watch?v=GQMNer3PwUc
+    - 9: https://www.youtube.com/watch?v=uQpmIm4I1dw
+    - 10: https://www.youtube.com/watch?v=uMCSdgkdOJc
+    - BGM channel https://www.youtube.com/channel/UCJhjE7wbdYAae1G25m0tHAA
+
+- anonymous playlists
+- https://lifehacker.com/create-a-youtube-playlist-without-an-account-with-this-1688862486
+
+
+
+pov
+    walking
+    driving
+    train
+    cycling
+    aerial
+    live cam
+    animal cam
+dynamic wallpaper
+    rooms
+    simple
+    loops
+    low def
+space
+tv
+    painting
+    90's cartoons
+    ghibli
+    bob ross
+    old tv shows  
+    - https://www.youtube.com/playlist?list=PLAEQD0ULngi67rwmhrkNjMZKvyCReqDV4 
+    - attenborough
+    - scenery videos
+        - Deep Music 24h (Super long scenary videos): 
+            https://www.youtube.com/c/DeepMusic24h/videos
+    - walking videos
+        - Nomadic Ambience (Bunch of walking vids): 
+            https://www.youtube.com/channel/UCqRTj-Nu_8to3jIBlXptOtA
+        - Rambalac (Walking vids - more classic japan): 
+            https://www.youtube.com/watch?v=3cKei35MdGY
+            https://www.youtube.com/watch?v=Ph7sdwv2aqs
+        - JAPAN Urbanit Walker 
+            https://www.youtube.com/channel/UCsheduymxx6i1dETdgaswPQ
+        - VIRTUAL JAPAN - 
+            https://www.youtube.com/channel/UCMTv_Dg1BXFUglzWIIincpQ
+        - Playlist Nightwalk Japan 
+        https://www.youtube.com/playlist?list=PL2qc-hH9Ip-QUOyIs4hqArsJBoatVfDEU
+        - 2km everyday
+        - seoul walker
+
+## Moods
+- preset popular themes for new users
+    - space with space ambient
+    - lofi hiphop on walking
+    - bossa nova on gorillas or sea
+    - classical on room ? 
+    - relaxing instrumental on japan
+    - no radio on driving tokyo
+    - no radio on scenery world
+    - driving plus radio is another mood
+    - upbeat and sunny is another
+

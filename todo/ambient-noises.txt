@@ -1,0 +1,6 @@
+
+- add in ambient noises like thunder, rain, etc...
+    - https://developers.google.com/assistant/tools/sound-library/ambiences
+    - https://developers.google.com/assistant/tools/sound-library/weather
+    - https://asoftmurmur.com/about/
+    - https://github.com/iambibhas/background-noise
